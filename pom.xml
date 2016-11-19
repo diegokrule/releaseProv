@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>releaseProvider</artifactId>
-	<version>0.0.8-SNAPSHOT</version>
+	<version>0.0.8</version>
 
 
 	<distributionManagement>
@@ -21,7 +21,7 @@
 		<connection>scm:git:https://github.com/diegokrule/releaseProv.git</connection>
 		<url>http://github.com/diegokrule/releaseProv</url>
 		<developerConnection>scm:git:https://github.com/diegokrule/releaseProv.git</developerConnection>
-		<tag>releaseProvider-0.0.3</tag>
+		<tag>releaseProvider-0.0.8</tag>
 	</scm>
 
 	<build>
