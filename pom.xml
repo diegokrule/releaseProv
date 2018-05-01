@@ -35,7 +35,7 @@
 					<skip>true</skip>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!--plugin>
 				<groupId>org.sonatype.plugins</groupId>
 				<artifactId>nexus-staging-maven-plugin</artifactId>
 				<version>1.5.1</version>
@@ -53,7 +53,7 @@
 					<nexusUrl>http://localhost:8081/</nexusUrl>
 					<skipStaging>true</skipStaging>
 				</configuration>
-			</plugin>
+			</plugini-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
